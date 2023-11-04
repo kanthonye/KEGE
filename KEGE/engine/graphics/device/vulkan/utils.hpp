@@ -214,8 +214,8 @@ namespace kege{namespace vk{
     VkVertexInputRate getVertexInputRate( core::VertexInputRate::Enum rate );
 }}
 
-#include "../../device/vendor/KhronosGroup/spirv-reflect/spirv.h"
-#include "../../device/vendor/KhronosGroup/spirv-reflect/spirv_reflect.h"
+#include "spirv.h"
+#include "spirv_reflect.h"
 
 namespace kege{namespace vk{
 

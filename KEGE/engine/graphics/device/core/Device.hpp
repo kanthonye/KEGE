@@ -9,7 +9,6 @@
 #define KEGE_CORE_DEVICE
 #include <stdlib.h>
 #include "stb_image.h"
-#include "../../../memory/pool-system/PoolSysm.hpp"
 #include "../../device/core/Buffer.hpp"
 #include "../../device/core/Window.hpp"
 #include "../../device/core/Texture.hpp"

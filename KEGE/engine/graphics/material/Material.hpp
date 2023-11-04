@@ -8,7 +8,7 @@
 #ifndef KEGE_MATERIAL_HPP
 #define KEGE_MATERIAL_HPP
 #include <vector>
-#include "../../memory/Ref.hpp"
+#include "Ref.hpp"
 #include "../material/ShaderEffect.hpp"
 namespace kege
 {

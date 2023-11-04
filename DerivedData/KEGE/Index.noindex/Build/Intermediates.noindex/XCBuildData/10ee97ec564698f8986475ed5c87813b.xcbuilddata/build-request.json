@@ -1,0 +1,59 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "96588ae19ea257f8aa86040ba520b24981d8fad4110e5698cc743a8cd2bf83bb"
+    }
+  ],
+  "containerPath" : "/Users/kae/Projects/git/KEGE/KEGE.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/kae/Projects/git/KEGE/DerivedData/KEGE/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/kae/Projects/git/KEGE/DerivedData/KEGE/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/kae/Projects/git/KEGE/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/kae/Projects/git/KEGE/DerivedData/KEGE/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/kae/Projects/git/KEGE/DerivedData/KEGE/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/kae/Projects/git/KEGE/DerivedData/KEGE/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/kae/Projects/git/KEGE/DerivedData/KEGE/Build/Products",
+      "pchPath" : "/Users/kae/Projects/git/KEGE/DerivedData/KEGE/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -11,7 +11,7 @@
 #include <map>
 #include <vector>
 #include <unordered_map>
-#include "../../memory/Ref.hpp"
+#include "Ref.hpp"
 #include "../math/cgm.hpp"
 #include "../geometry/Geometry.hpp"
 #include "../material/Material.hpp"

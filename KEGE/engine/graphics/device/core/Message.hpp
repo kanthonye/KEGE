@@ -9,7 +9,6 @@
 #define Message_hpp
 #include <stdlib.h>
 #include "Ref.hpp"
-#include "glm.hpp"
 #include "cgm.hpp"
 
 namespace kege

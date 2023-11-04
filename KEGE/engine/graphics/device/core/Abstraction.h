@@ -4,6 +4,7 @@
 //
 //  Created by Kenneth Esdaile on 6/11/23.
 //
+#include <assert.h>
 #include "Message.hpp"
 #include "PoolSYsm.hpp"
 #ifndef KEGE_CORE_ABSTRACTION

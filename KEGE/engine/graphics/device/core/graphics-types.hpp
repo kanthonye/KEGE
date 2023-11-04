@@ -11,13 +11,10 @@
 #include <vector>
 #include <string>
 #include "cgm.hpp"
-#include "../vendor/glm/glm.hpp"
-#include "../vendor/glm/ext.hpp"
 #include "Ref.hpp"
 #include "kege-assert.hpp"
 #include "kege-logger.hpp"
 #include "PoolSysm.hpp"
-#include "../../../memory/pool-system/PoolIndex.hpp"
 
 #define KEGE_INVALID_ID (uint32_t)(4294967296)
 

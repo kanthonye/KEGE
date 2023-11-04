@@ -8,7 +8,7 @@
 #ifndef Input_hpp
 #define Input_hpp
 
-#include "glm.hpp"
+#include "cgm.hpp"
 #include "Keycodes.hpp"
 #include "Message.hpp"
 #include "../../ecs/EntitySystem.hpp"
