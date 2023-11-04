@@ -1,0 +1,27 @@
+#define KEGE_EVENT_TYPES \
+enum_event_type( INVALID ),\
+\
+enum_event_type( MOVE_FORWARD ),\
+enum_event_type( MOVE_BACKWARD ),\
+enum_event_type( MOVE_LEFTWARD ),\
+enum_event_type( MOVE_RIGHTWARD ),\
+enum_event_type( MOVE_UPWARD ),\
+enum_event_type( MOVE_DOWNWARD ),\
+enum_event_type( TURN_LEFT ),\
+enum_event_type( TURN_RIGHT ),\
+enum_event_type( LOOK_UP ),\
+enum_event_type( LOOK_DOWN ),\
+enum_event_type( LOOK_LEFT ),\
+enum_event_type( LOOK_RIGHT ),\
+enum_event_type( CONTROL_CAMERA ),\
+enum_event_type( ZOOM ),\
+enum_event_type( ZOOM_IN ),\
+enum_event_type( ZOOM_OUT ),\
+enum_event_type( JUMP ),\
+\
+enum_event_type( TOGGLE_WIREFRAME ),\
+enum_event_type( CAMERA_CHANGE ),\
+enum_event_type( AVATAR_CHANGE ),\
+\
+enum_event_type( MAX_COUNT )
+

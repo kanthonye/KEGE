@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6EB44117-CD2E-44A7-9E17-910A5809D312"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88BBD253-8C5E-45B5-B434-B06C8BCC0E9D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/graphics/device/core/VertexArray.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "VertexArray::draw(command, first_vertex, vertex_count, first_instance, instance_count)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "88BBD253-8C5E-45B5-B434-B06C8BCC0E9D - a3ea260a5c3c5357"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::core::VertexArray::draw(kege::core::CommandBuffer*, unsigned int, unsigned int, unsigned int, unsigned int) const"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/graphics/device/core/VertexArray.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "88BBD253-8C5E-45B5-B434-B06C8BCC0E9D - a3ea260a5c3c5357"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::core::VertexArray::draw(kege::core::CommandBuffer*, unsigned int, unsigned int, unsigned int, unsigned int) const"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/graphics/device/core/VertexArray.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "82">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C13FF847-45EC-4AA4-9E2B-ADB605C71C60"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/scene/systems/spherical-terrain/modules/SphericalTerrainGeometry.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "SphericalTerrainGeometry::SphericalTerrainGeometry(face_id, radius, quad_points)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C13FF847-45EC-4AA4-9E2B-ADB605C71C60 - 315323589e9e35e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::SphericalTerrainGeometry::SphericalTerrainGeometry(kege::SphericalTerrainGeometry::FaceId, double, kege::Mat43&lt;float&gt; const&amp;)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/scene/systems/spherical-terrain/modules/SphericalTerrainGeometry.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "190"
+                  endingLineNumber = "190"
+                  offsetFromSymbolStart = "858">
+               </Location>
+               <Location
+                  uuid = "C13FF847-45EC-4AA4-9E2B-ADB605C71C60 - 315323589e9e34d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::SphericalTerrainGeometry::SphericalTerrainGeometry(kege::SphericalTerrainGeometry::FaceId, double, kege::Mat43&lt;float&gt; const&amp;)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/scene/systems/spherical-terrain/modules/SphericalTerrainGeometry.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "858">
+               </Location>
+               <Location
+                  uuid = "C13FF847-45EC-4AA4-9E2B-ADB605C71C60 - 315323589e9e34d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::SphericalTerrainGeometry::SphericalTerrainGeometry(kege::SphericalTerrainGeometry::FaceId, double, kege::Mat43&lt;float&gt; const&amp;)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/scene/systems/spherical-terrain/modules/SphericalTerrainGeometry.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "3702">
+               </Location>
+               <Location
+                  uuid = "C13FF847-45EC-4AA4-9E2B-ADB605C71C60 - 315323589e9e34d8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::SphericalTerrainGeometry::SphericalTerrainGeometry(kege::SphericalTerrainGeometry::FaceId, double, kege::Mat43&lt;float&gt; const&amp;)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/scene/systems/spherical-terrain/modules/SphericalTerrainGeometry.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "184"
+                  endingLineNumber = "184"
+                  offsetFromSymbolStart = "4263">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4230E94B-30FA-4AB9-AE4C-B7306C403A8D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/scene/CubeSphereQuadtree.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "CubeSphereQuadtree::split(root, quadtree)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E5928919-71A8-4788-A165-EB7192DD7156"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/graphics/device/vulkan/utils.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "619"
+            endingLineNumber = "619"
+            landmarkName = "convertGLSLToSPIRVFile(shader_bytecode, filename)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "E5928919-71A8-4788-A165-EB7192DD7156 - 64d0f3c9b6c175b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::vk::convertGLSLToSPIRVFile(std::__1::vector&lt;char, std::__1::allocator&lt;char&gt;&gt;&amp;, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt; const&amp;)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/graphics/device/vulkan/utils.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "619"
+                  endingLineNumber = "619"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  uuid = "E5928919-71A8-4788-A165-EB7192DD7156 - 64d0f3c9b6c175b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::vk::convertGLSLToSPIRVFile(std::__1::vector&lt;char, std::__1::allocator&lt;char&gt;&gt;&amp;, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt; const&amp;)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/graphics/device/vulkan/utils.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "619"
+                  endingLineNumber = "619"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  uuid = "E5928919-71A8-4788-A165-EB7192DD7156 - 64d0f3c9b6c175b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::vk::convertGLSLToSPIRVFile(std::__1::vector&lt;char, std::__1::allocator&lt;char&gt;&gt;&amp;, std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt; const&amp;)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/graphics/device/vulkan/utils.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "619"
+                  endingLineNumber = "619"
+                  offsetFromSymbolStart = "504">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A986BBBB-8CA9-442B-881B-F8DA664A612F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/scene/systems/render/Hierarchy.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "Hierarchy::updateChildren(parent)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A986BBBB-8CA9-442B-881B-F8DA664A612F - 2f1636f5fc88ebd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::system::Hierarchy::updateChildren(kege::component::Child*)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/scene/systems/render/Hierarchy.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "A986BBBB-8CA9-442B-881B-F8DA664A612F - 2f1636f5fc88ebd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::system::Hierarchy::updateChildren(kege::component::Child*)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/scene/systems/render/Hierarchy.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "271">
+               </Location>
+               <Location
+                  uuid = "A986BBBB-8CA9-442B-881B-F8DA664A612F - 2f1636f5fc88ebd4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::system::Hierarchy::updateChildren(kege::component::Child*)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/scene/systems/render/Hierarchy.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "549">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8585DA37-1866-40AA-A3DB-7B939EF51B94"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/graphics/device/vulkan/CommandBuffer.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "CommandBuffer::bindUniformLayout(first_set, layout)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8585DA37-1866-40AA-A3DB-7B939EF51B94 - 8a05205684ed1765"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::vk::CommandBuffer::bindUniformLayout(unsigned int, kege::core::UniformLayout const*)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/graphics/device/vulkan/CommandBuffer.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "8585DA37-1866-40AA-A3DB-7B939EF51B94 - 8a05205684ed1765"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::vk::CommandBuffer::bindUniformLayout(unsigned int, kege::core::UniformLayout const*)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/graphics/device/vulkan/CommandBuffer.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "333">
+               </Location>
+               <Location
+                  uuid = "8585DA37-1866-40AA-A3DB-7B939EF51B94 - 8a05205684ed1765"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::vk::CommandBuffer::bindUniformLayout(unsigned int, kege::core::UniformLayout const*)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/graphics/device/vulkan/CommandBuffer.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB70E8EC-907E-4383-AE74-231FEF095F25"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/graphics/device/vulkan/Shader.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "Shader::getShaderResourceIndex(name)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DB70E8EC-907E-4383-AE74-231FEF095F25 - 4c4e16586ff1daab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::vk::Shader::getShaderResourceIndex(char const*) const"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/graphics/device/vulkan/Shader.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "DB70E8EC-907E-4383-AE74-231FEF095F25 - 4c4e16586ff1daab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::vk::Shader::getShaderResourceIndex(char const*) const"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/graphics/device/vulkan/Shader.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "003B1D27-CF78-41B0-970C-0C891AB05C52"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/scene/systems/render/render-process/RenderProcess.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "RenderProcess::frameIndex()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84827131-2F13-4885-92F7-67F7A60A3D8A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/scene/systems/spherical-terrain/modules/SphericalTerrainGeometry.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "SphericalTerrainGeometry::pushInstanceBuffer(count, instance)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "84827131-2F13-4885-92F7-67F7A60A3D8A - 4134a44bc5dbd88e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::SphericalTerrainGeometry::pushInstanceBuffer(unsigned int, kege::Mat24&lt;float&gt; const*)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/scene/systems/spherical-terrain/modules/SphericalTerrainGeometry.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "1106">
+               </Location>
+               <Location
+                  uuid = "84827131-2F13-4885-92F7-67F7A60A3D8A - 4134a44bc5dbd88e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::SphericalTerrainGeometry::pushInstanceBuffer(unsigned int, kege::Mat24&lt;float&gt; const*)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/scene/systems/spherical-terrain/modules/SphericalTerrainGeometry.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "242">
+               </Location>
+               <Location
+                  uuid = "84827131-2F13-4885-92F7-67F7A60A3D8A - 4134a44bc5dbd88e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::SphericalTerrainGeometry::pushInstanceBuffer(unsigned int, kege::Mat24&lt;float&gt; const*)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/scene/systems/spherical-terrain/modules/SphericalTerrainGeometry.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "768">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30EB9176-728B-4796-B024-9C3746809C63"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/scene/systems/spherical-terrain/modules/SphericalTerrainGeometry.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "SphericalTerrainGeometry::pushInstanceBuffer(count, instance)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "30EB9176-728B-4796-B024-9C3746809C63 - 4134a44bc5dbde12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::SphericalTerrainGeometry::pushInstanceBuffer(unsigned int, kege::Mat24&lt;float&gt; const*)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/scene/systems/spherical-terrain/modules/SphericalTerrainGeometry.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "3216">
+               </Location>
+               <Location
+                  uuid = "30EB9176-728B-4796-B024-9C3746809C63 - 4134a44bc5dbde12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::SphericalTerrainGeometry::pushInstanceBuffer(unsigned int, kege::Mat24&lt;float&gt; const*)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/scene/systems/spherical-terrain/modules/SphericalTerrainGeometry.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "736">
+               </Location>
+               <Location
+                  uuid = "30EB9176-728B-4796-B024-9C3746809C63 - 4134a44bc5dbde12"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::SphericalTerrainGeometry::pushInstanceBuffer(unsigned int, kege::Mat24&lt;float&gt; const*)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/scene/systems/spherical-terrain/modules/SphericalTerrainGeometry.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "2100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96A7C6DE-FF23-4BFA-A5C5-00D2DBC906D6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/scene/systems/render/render-process/RenderPhaseMCB.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "RenderPhaseMCB::execute()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2035265-0FB4-4418-BE39-4A3C7EBF480F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/scene/systems/render/render-process/RenderPhaseMCB.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "RenderPhaseMCB::addRenderTechniques(technique)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F8777304-05AB-47FC-B667-77F14E809906"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/scene/systems/render/render-process/RenderProcess.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "RenderProcess::executeRenderPhase(phase)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6620067-8A0E-4C62-AAA9-BFBBF96F7C5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/scene/CubeSphereQuadtree.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "179"
+            endingLineNumber = "179"
+            landmarkName = "CubeSphereQuadtree::cullGeometry(frustum, quadtree, instance, count)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F6620067-8A0E-4C62-AAA9-BFBBF96F7C5F - 5ac916fba499abc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::CubeSphereQuadtree::cullGeometry(kege::Frustum&lt;float&gt; const&amp;, kege::CubeSphereQuadtreeNode&amp;, kege::Mat24&lt;float&gt;*, unsigned int&amp;)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/scene/CubeSphereQuadtree.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "179"
+                  endingLineNumber = "179"
+                  offsetFromSymbolStart = "498">
+               </Location>
+               <Location
+                  uuid = "F6620067-8A0E-4C62-AAA9-BFBBF96F7C5F - 5ac916fba499abc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::CubeSphereQuadtree::cullGeometry(kege::Frustum&lt;float&gt; const&amp;, kege::CubeSphereQuadtreeNode&amp;, kege::Mat24&lt;float&gt;*, unsigned int&amp;)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/scene/CubeSphereQuadtree.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "179"
+                  endingLineNumber = "179"
+                  offsetFromSymbolStart = "1802">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DA9AAEB-2713-484E-A3B2-4CDE072D5309"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/graphics/device/vulkan/Descriptor.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "674"
+            endingLineNumber = "674"
+            landmarkName = "PipelineLayoutManager::createUniformHandle(asset)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0BA2E8E8-22AE-4427-B1FF-866201126663"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/utils/reader/FileReader.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "FileReader::read(bufr, length, flags)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8DEC861-142A-4BEE-8D46-D8EF83ACB4DE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/app/ShaderLibrary.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "274"
+            endingLineNumber = "274"
+            landmarkName = "loadShaderInfo(info, reader)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "A8DEC861-142A-4BEE-8D46-D8EF83ACB4DE - 97b0559b31247543"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::loadShaderInfo(kege::core::Shader::Info&amp;, kege::FileReader&amp;)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/app/ShaderLibrary.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "274"
+                  endingLineNumber = "274"
+                  offsetFromSymbolStart = "3251">
+               </Location>
+               <Location
+                  uuid = "A8DEC861-142A-4BEE-8D46-D8EF83ACB4DE - 97b0559b31247543"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::loadShaderInfo(kege::core::Shader::Info&amp;, kege::FileReader&amp;)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/app/ShaderLibrary.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "274"
+                  endingLineNumber = "274"
+                  offsetFromSymbolStart = "3253">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34E12A61-715F-4AB3-9D36-5C1900445306"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/app/ShaderLibrary.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "266"
+            endingLineNumber = "266"
+            landmarkName = "loadShaderInfo(info, reader)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "34E12A61-715F-4AB3-9D36-5C1900445306 - 97b0559b3124744b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::loadShaderInfo(kege::core::Shader::Info&amp;, kege::FileReader&amp;)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/app/ShaderLibrary.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "3098">
+               </Location>
+               <Location
+                  uuid = "34E12A61-715F-4AB3-9D36-5C1900445306 - 97b0559b3124744b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "kege::loadShaderInfo(kege::core::Shader::Info&amp;, kege::FileReader&amp;)"
+                  moduleName = "KEGE"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kae/Projects/xcode/cpp/kege-dev/KEGE/kege/engine/app/ShaderLibrary.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "3100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "057E35D2-9035-4CBF-87D1-EA904CDA6AE4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KEGE/kege/engine/app/ShaderLibrary.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "304"
+            endingLineNumber = "304"
+            landmarkName = "loadShaderInfo(info, reader)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

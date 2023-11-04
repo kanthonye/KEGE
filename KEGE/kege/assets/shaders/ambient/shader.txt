@@ -1,0 +1,9 @@
+
+VS                  shaders/ambient/vert.vert
+FS                  shaders/ambient/frag.frag
+polygon             FILL
+primitive           TRIANGLE_LIST
+VertexInputRate     PER_VERTEX
+VertexInputStride   60
+VertexInputBinding  0
+

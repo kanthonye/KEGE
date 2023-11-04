@@ -1,0 +1,3 @@
+
+SphericalQuadtreeTerrain    shaders/spherical-terrain/shader.txt
+PBR                 shaders/pbr/shader.txt

@@ -1,0 +1,177 @@
+{
+    "asset":
+    {
+        "author": ""
+    },
+
+    "cameras":
+    [
+        {
+            "camera-0":
+            {
+                "perspective":
+                {
+                    "xfov":         39.59775,
+                    "aspect_ratio": 1.777778,
+                    "znear":        0.1,
+                    "zfar":         100,
+                }
+            }
+        },
+
+        {
+            "camera-1":
+            {
+                "orthographic":
+                {
+                    "left":         1,
+                    "right":        1,
+                    "top":          1,
+                    "bottom":       1,
+                    "front":        1,
+                    "back":         1,
+                }
+            } 
+        }
+        
+    ],
+
+    "geometries":
+    [
+        {
+            "geometry-0":
+            {
+                "vertices": [],
+                "indices": [],
+                "attributes": 
+                {
+                    "position":
+                    {
+                        "stride":   3,
+                        "offset":   0,
+                        "type":     "float"
+                    },
+                    "normal":
+                    {
+                        "stride":   3,
+                        "offset":   3,
+                        "type":     "float"
+                    },
+                    "texcoord":
+                    {
+                        "stride":   2,
+                        "offset":   6,
+                        "type":     "float"
+                    },
+                },
+            }
+        },
+    ],
+
+
+    "images":
+    [
+        {"image-0": "filename"},
+        {"image-1": "filename"},
+        {"image-2": "filename"},
+    ],
+
+    "material-parameters":
+    [
+        {
+            "material-parameter-0":
+            {
+                "albeto": [],
+                "metallic": [],
+                "roughness": [],
+                "emission": [],
+            },
+        },
+    ],
+
+    "material-textures":
+    [
+        {
+            "material-texture-0":
+            [
+                {   
+                    "albedo-map": 
+                    {
+                        "image-target": "image-1",
+                        "image-channels": "RGB"
+                    }
+                },
+                {   
+                    "normal-map": 
+                    {
+                        "image-target": "image-2",
+                        "image-channels": "RGB"
+                    }
+                },
+                {   
+                    "emission-map": 
+                    {
+                        "image-target": "image-2",
+                        "image-channels": "RGBA"
+                    }
+                },
+                {   
+                    "metallic-map": 
+                    {
+                        "image-target": "image-0",
+                        "image-channels": "R"
+                    }
+                },
+                {   
+                    "roughness-map": 
+                    {
+                        "image-target": "image-0",
+                        "image-channels": "G"
+                    }
+                },
+                {   
+                    "ambient-occlussion-map": 
+                    {
+                        "image-target": "image-0",
+                        "image-channels": "B"
+                    }
+                },
+                {   
+                    "transparency-map": 
+                    {
+                        "image-target": "image-0",
+                        "image-channels": "A"
+                    }
+                },
+                {   
+                    "depth-map": 
+                    {
+                        "image-target": "image-1",
+                        "image-channels": "A"
+                    }
+                },
+            ]
+        },
+    ],
+
+    "materials":
+    [
+        {
+            "black-metal":
+            [
+                { 
+                    "source": "material-parameters" ,
+                    "target" : "material-parameter-0"
+                },
+            ],
+            "brown-stone":
+            [
+                { 
+                    "source": "material-parameters" ,
+                    "target" : "material-parameter-0"
+                },
+            ],
+
+        },
+    ]
+}

@@ -1,0 +1,10 @@
+type                GRAPHICS_SHADER
+
+VS                  shaders/pbr/vert.vert
+FS                  shaders/pbr/frag.frag
+polygon             LINE
+primitive           TRIANGLE_LIST
+VertexInputRate     PER_VERTEX
+VertexInputStride   60
+VertexInputBinding  0
+

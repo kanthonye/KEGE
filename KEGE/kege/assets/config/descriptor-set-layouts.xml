@@ -1,0 +1,36 @@
+<descriptor_layout set="0" id="CAMERA">
+    <descriptor binding="0" type="UNIFORM_BUFFER">
+    <poolsizes count="1" maxsize="10">
+</descriptor_set>
+
+<descriptor_layout id="MATERIAL">
+    <descriptor_set set="2">
+        <descriptor binding="0" type="UNIFORM_BUFFER">
+        <descriptor binding="1" type="COMBINED_IMAGE_SAMPLER">
+        <descriptor binding="2" type="COMBINED_IMAGE_SAMPLER">
+        <descriptor binding="3" type="COMBINED_IMAGE_SAMPLER">
+        <descriptor binding="4" type="COMBINED_IMAGE_SAMPLER">
+    </descriptor_set>
+    <poolsizes count="1" maxsize="1024"/>
+</descriptor_layout>
+
+<descriptor_layout set="3" id="GUI_PROJECTION">
+    <descriptor binding="0" type="UNIFORM_BUFFER">
+    <poolsizes count="1" maxsize="1">
+</descriptor_set>
+
+<descriptor_layout set="4" id="GUI_THEME">
+    <descriptor binding="0" type="STORAGE_BUFFER">
+    <descriptor binding="1" type="COMBINED_IMAGE_SAMPLER">
+    <descriptor binding="2" type="COMBINED_IMAGE_SAMPLER">
+    <descriptor binding="3" type="COMBINED_IMAGE_SAMPLER">
+    <descriptor binding="4" type="COMBINED_IMAGE_SAMPLER">
+    <poolsizes count="1" maxsize="10">
+</descriptor_layout>
+
+
+
+<descriptor_pool_maxsize>
+    <maxsize set="0" target="CAMERA" size="10" />
+    <maxsize set="0" target="MATERIAL" size="1024" />
+</descriptor_pool_maxsize>

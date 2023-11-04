@@ -1,0 +1,49 @@
+
+render height fields to storage buffer them copy storage buffer data to texture image.
+
+
+class ComputeBufferIO : ShaderResourceGroup
+{
+    core::Buffer _buffers[2];
+}
+class ComputeTask
+{
+    void execute( CommandBuffer* command );
+    ComputeShader _shader;
+    core::ComputeBufferIO _io;
+}
+
+void execute( CommandBuffer* command )
+{
+    _shader->bind( command );
+    _shader->bindResource( 0, 0, _io );
+    _shader->dispatch();
+}
+
+
+class ComputeTaskManager
+{
+    void execute();
+    std::vector< ComputeTask > _tasks;
+    core::CommandBuffer _command;
+    std::mutex _mutex;
+}
+void ComputeTaskManager::execute()
+{
+    std::vector< ComputeTask > tasks;
+    {
+        std::lock_guard< std::mutex > lock( _mutex );
+        tasks = _tasks;
+        _tasks.clear();
+    }
+
+    for(auto& task : tasks )
+    {
+        task->execute( _command );
+    }
+}
+
+class SPhericalTerrainShape
+{
+    ShaderBuffer _height_fields;
+}
